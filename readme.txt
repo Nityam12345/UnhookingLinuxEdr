@@ -293,3 +293,9 @@ Kernel modules present multiple attack surfaces, and by manipulating cleanup_mod
 we were able to disable hooks and suppress alerts without officially
 removing the module. This demonstrates that the very design of Linux provides
 alternative pathways for those who know where to look.
+
+If you have any questions, please contact me:
+
+Discord: ftrace
+Twitter: @MatheuzSecurity
+Rootkit Researchers: https://discord.gg/66N5ZQppU7
